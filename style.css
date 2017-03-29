@@ -1,0 +1,28 @@
+#image-div img{
+  width:650px;
+  height:700px;
+  float:left;
+
+}
+#head-div{
+  color:blue;
+  font-family: sans-serif;
+  font-size: 20px;
+  position:relative;
+  top:75px;
+  left:20px;
+  float: left;
+
+}
+#sub-div{
+  font-size: 45px;
+  color:black;
+}
+p{
+  font-size: 20px;
+  color:grey;
+  height:150px;
+  width:825px;
+  margin-top:10px;
+
+}
